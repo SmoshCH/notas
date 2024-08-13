@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=jChUn5oaSW8&list=PLWQQswW6kqpWAAo0XYaJ3JMyBhUqWS
 Optimización de linux 
 https://www.youtube.com/watch?v=c3EvgnMcM38
 
+instalacion de ubuntu 
+https://www.youtube.com/watch?v=qH9JuCjCKow
+
 uso de git 
 https://training.github.com/downloads/es_ES/github-git-cheat-sheet/
 
