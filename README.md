@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=KIWqBBRx-Eg
 
 instalacion de git en linux
 https://www.youtube.com/watch?v=jChUn5oaSW8&list=PLWQQswW6kqpWAAo0XYaJ3JMyBhUqWSisM&index=2
+
 Optimización de linux 
 https://www.youtube.com/watch?v=c3EvgnMcM38
 
