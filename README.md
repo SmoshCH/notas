@@ -1,9 +1,9 @@
-# notas
+# Notas
 
-Cosas por hacer 
+## Cosas por hacer 
 
-curso de git 
-Languages 
+- Curso de git 
+- Languages 
 
 
 // otros // 
