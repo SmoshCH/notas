@@ -1,7 +1,12 @@
 # notas
 
-Ubuntu
-couso de git 
+Cosas por hacer 
+
+curso de git 
+Languages 
+
+
+// otros // 
 
 instalacion de ubuntu 
 https://www.youtube.com/watch?v=qH9JuCjCKow
@@ -13,9 +18,5 @@ https://www.youtube.com/watch?v=c3EvgnMcM38
 instalacion vscode ubuntu
 https://www.youtube.com/watch?v=g1kqDhq5Xxc
 
-html css javascript react/vue nodejs mysql
-
-camino dev
-https://www.youtube.com/watch?v=vlCXdvcgiE0&list=PLJXzsZ8jXSKhWGPSgsORLr0jCQIRs7y3k
 
 
