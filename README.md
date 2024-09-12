@@ -18,7 +18,4 @@ html css javascript react/vue nodejs mysql
 camino dev
 https://www.youtube.com/watch?v=vlCXdvcgiE0&list=PLJXzsZ8jXSKhWGPSgsORLr0jCQIRs7y3k
 
-tutorial de flask 
-https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
 
-//Nuevo clonado
